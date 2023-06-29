@@ -1,10 +1,9 @@
 v 1
-d 'DYADCLUST'
+d 'FWLGRAPH'
 d 
-d Distribution-Date: 23mar2021
+d Distribution-Date: 28jun2023
 d License: MIT
 d 
-F dyadclust.ado
-F dyadclust.sthlp
-F vcimatrix.ado
-F vcimatrix_parallel.ado
+F fwlgraph.ado
+F fwlgraph.sthlp
+
